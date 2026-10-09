@@ -294,6 +294,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 ### Specialized Image Tools
 
 - [Headshot Pro](https://headshotpro.com) — Generate professional AI headshots from casual photos.
+- [RealFun Color](https://realfuncolor.com/?utm_source=github&utm_medium=referral&utm_campaign=shahedbd_awesome_ai_tools) — Selfie-based personal color analysis for wardrobe and makeup choices. `#free`
 - [StockPhotoAI](https://stockphotoai.net) — Generate royalty-free stock photos on demand for any use case.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
 - [Civitai](https://civitai.com) — Community hub for sharing and downloading Stable Diffusion models and LoRAs. `#free`
